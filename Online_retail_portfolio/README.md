@@ -52,7 +52,7 @@ portfolio/
 
 ###  1️⃣ Customer Insight Dashboard
 
-![Customer Insight](powerbi_visuals/Customer_insight_dashboard.png)
+![Customer Insight](visualisation_powerbi/Customer_insight_dashboard.png)
 
 - **Nombre de clients** : 4 338
 - **Chiffre d’affaires total** : 8,91 M
@@ -63,7 +63,7 @@ portfolio/
 
 ### 2️⃣ Product Insight Dashboard
 
-![Product Insight](powerbi_visuals/Product_insight_dashboard.png)
+![Product Insight](visualisation_powerbi/Product_insight_dashboard.png)
 
 - **Nombre total de produits** : 3 868
 - **Top ventes par produit**: (en CA et en quantité)
